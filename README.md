@@ -165,22 +165,3 @@ The system will automatically:
 * **Gradio**
 * **dotenv**
 * **Local markdown RAG** (no vector DB)
-
----
-
-## 💡 Future Enhancements
-
-If you want to expand the project, here are natural next steps:
-
-* Add embeddings + semantic search
-* Add synthetic player generator (already done!)
-* Add evaluation for RAG accuracy
-* Add API endpoint (FastAPI)
-* Add frontend widget for websites
-* Add player stats parser (goals/assists/etc.)
-
----
-
-## ⚽ Final Words
-
-This project is intentionally **simple**, **transparent**, and **educational** - but powerful enough to answer structured questions about FC Barcelona players using only local markdown files.
