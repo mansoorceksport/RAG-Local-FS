@@ -184,5 +184,3 @@ If you want to expand the project, here are natural next steps:
 ## ⚽ Final Words
 
 This project is intentionally **simple**, **transparent**, and **educational** - but powerful enough to answer structured questions about FC Barcelona players using only local markdown files.
-
-If the club ever needs a *personal AI sporting director*, you’re already halfway there. 😄
