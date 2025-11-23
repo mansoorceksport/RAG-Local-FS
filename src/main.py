@@ -74,4 +74,4 @@ def chat(message, history):
 if __name__ == "__main__":
     knowledge = load_markdown_files()
     view = gr.ChatInterface(chat, type="messages").launch(inbrowser=True, debug=True)
-    print("Loaded employees:", list(employees.keys()))
+    print("Loaded employees:", list(knowledge.keys()))
