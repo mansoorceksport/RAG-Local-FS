@@ -52,13 +52,18 @@ Perfect for small projects, demo apps, or experimenting with RAG fundamentals.
 ```
 /
 ├── data/
-│   └── employees/
-│       ├── <employee1>.md
-│       ├── <employee2>.md
-│       └── ...
+│ └── employees/
+│ ├── <employee1>.md
+│ ├── <employee2>.md
+│ └── ...
 │
-├── synthetic_data_generator.py   (optional, if you generate fake players)
-├── main.py                       (your main RAG chat app)
+├── src/
+│ ├── main.py
+│
+├── tests/
+│ ├── test_context.py
+│
+├── synthetic_data_generator.py
 ├── requirements.txt
 └── README.md
 ```
